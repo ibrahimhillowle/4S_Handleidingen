@@ -1,7 +1,11 @@
 
-<footer>
-	© {{ __('misc.copyright') }}
+<footer class="footer">
+<div class="container">
+  	© {{ __('misc.copyright') }}
+    </div>
 </footer>
+
+
 
 
 <!-- analytics code -->              
