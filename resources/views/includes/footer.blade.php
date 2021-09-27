@@ -3,14 +3,15 @@
 <div class="container">
   	© {{ __('misc.copyright') }}
     </div>
-    <div class="footer-contact">
-      <h2>Contact</h2>
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, minima aut! Laboriosam deserunt sit rerum eum eligendi explicabo aliquam quaerat?</p>
-    </div>
     <div class="footer-about">
       <h2>About us</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos deserunt fugiat, maiores nemo ipsum enim sequi iusto non distinctio blanditiis sit consectetur officiis harum nulla!</p>
     </div>
+    <div class="footer-contact">
+      <h2>Contact</h2>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, minima aut! Laboriosam deserunt sit rerum eum eligendi explicabo aliquam quaerat?</p>
+    </div>
+
     <div class="footer-socialmedia">
          <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
