@@ -11,6 +11,7 @@
 <p>{{ __('introduction_texts.type_list', ['brand'=>$brand->name]) }}</p>
 
     <div class="container">
+		<div class="row-container">
 		<ul>
 		@foreach($types as $type)
 			<li>
@@ -18,6 +19,7 @@
 			</li>
 		@endforeach
 		</ul>
+		</div>
 	</div>
 
 @stop
